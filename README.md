@@ -1,2 +1,2 @@
 # react
-react管理
+vite-react-hooks-ts
